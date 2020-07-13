@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E_UPB</string>
+    <string name="se_souvenir_de_moi">Se souvenir de moi</string>
+    <string name="connexion">CONNEXION</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="title_activity_acceuil">Acceuil</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Scolarité</string>
+    <string name="title_notifications">Mon compte</string>
+</resources>
